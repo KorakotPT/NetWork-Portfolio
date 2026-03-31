@@ -57,6 +57,7 @@
 | หัวข้อ | ลิงก์ |
 |--------|-------|
 | Pre1 — Computer Networks: Getting Started with Cisco Packet Tracer | [🔗 ดู Certificate](https://drive.google.com/file/d/1dfdJK5D8nQcRNtlxsH9GTnw5M0ZUDV0W/view?usp=sharing) |
+| [CP352005 2/25] CCNA1: Introduction to Networks | [🔗 ดู Certificate](https://drive.google.com/file/d/14RhDdRDKAVu2ntIgWmcUIHdkacYtUx5L/view?usp=sharing) |
 
 ---
 
